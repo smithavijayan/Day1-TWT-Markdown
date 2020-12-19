@@ -15,6 +15,6 @@ This is a test file for a test pull request.
 # Hobbies
 
 {% for items in site.data.data_file %}
-The hobby of {{ item.hobby }} needs the object {{ item.object }}.
+The hobby of {{ items.hobby }} needs the object {{ items.object }}.
 {% endfor %}
 
