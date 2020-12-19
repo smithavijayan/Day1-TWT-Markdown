@@ -1,8 +1,8 @@
-hobby: Star-gazing
-object: Telescope
+-  hobby: Star-gazing
+   object: Telescope
 
-hobby: Photography
-object: Camera
+- hobby: Photography
+  object: Camera
 
-hobby: Sketching
-object: Sketching pencils
+- hobby: Sketching
+  object: Sketching pencils
