@@ -12,3 +12,9 @@ This is a test file for a test pull request.
 -  [Rainy days and mondays](https://www.youtube.com/watch?v=PjFoQxjgbrs)
 -  [Singin' in the rain](https://www.youtube.com/watch?v=swloMVFALXw)
 
+# Hobbies
+
+{% for items in site.data.index %}
+The hobby of {{ item.hobby }} needs the object {{ item.object }}.
+{% endfor %}
+
