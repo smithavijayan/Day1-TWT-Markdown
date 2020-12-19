@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 # Home page
 
 _added this change through git bash_
